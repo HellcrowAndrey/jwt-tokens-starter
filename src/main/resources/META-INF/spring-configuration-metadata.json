@@ -1,0 +1,13 @@
+{"groups": [
+    {
+        "name": "jwt",
+        "type": "java.lang.Boolean",
+        "sourceType": "com.github.jwt.tokens.config.JwtTokensConfig"
+    }
+],"properties": [
+    {
+        "name": "jwt.keys.store.enabled",
+        "type": "java.lang.Boolean",
+        "sourceType": "om.github.jwt.tokens.config.JwtTokensConfig"
+    }
+]}

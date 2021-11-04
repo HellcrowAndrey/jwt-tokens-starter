@@ -1,0 +1,2 @@
+keys:
+  store: '{"ROLE_ADMIN":{"priority":10,"accessKey":{"id":"f6e33047-03fe-4bc8-8f3b-f36860cac22f","expirationTime":23213,"key":"SAh0w03kK8JZh0iZdCSGxYUX5qjkRKuqK/rYStJBkGSyb2aWciUQOTJno0HpGucrmwURAftrU/Tqd12Dan+UbQ==","optionalHeader":"default","optionalCookie":"access_token"},"refreshKey":{"id":"a5a06ffe-9422-46fc-b97c-41d5abf84a59","expirationTime":12332,"key":"KSPqQ+Oa2tgjbozTBI/qIcLmPVHv58AI8RBttRBJzegGxZhfy4Opf8NOxjS73+Ok14yGOyLCwg+AfyDnAxujWQ==","cookieName":"refresh_token"}}}'
