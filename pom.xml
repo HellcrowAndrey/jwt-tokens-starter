@@ -10,11 +10,13 @@
     </parent>
     <groupId>com.github</groupId>
     <artifactId>jwt-tokens-starter</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <name>jwt-tokens-starter</name>
     <description>Spring boot starter jwt</description>
     <properties>
         <java.version>11</java.version>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
         <github.global.server>github</github.global.server>
     </properties>
     <dependencies>
@@ -91,15 +93,6 @@
                 </executions>
             </plugin>
 
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <compilerArgs>
-                        <arg>-parameters</arg>
-                    </compilerArgs>
-                </configuration>
-            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
